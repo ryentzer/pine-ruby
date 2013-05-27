@@ -1,0 +1,656 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cla",
+				"hasClass  (function)"
+			],
+			[
+				"ad",
+				"addClassName  (function)"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"cl",
+				"hasClass  (function)"
+			],
+			[
+				"sr",
+				"src"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"border-bot",
+				"border-bottom-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"site",
+				"site_description"
+			],
+			[
+				"bor-r",
+				"border-radius"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"phone",
+				"phone-number"
+			],
+			[
+				"la",
+				"last"
+			],
+			[
+				"style",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/safari.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"cop sc",
+				"File: Copy as Tag script"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"copyasts",
+				"File: Copy as Tag script"
+			],
+			[
+				"coppf",
+				"File: Copy Path From Project"
+			],
+			[
+				"filecop",
+				"File: Copy Path"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Preview"
+			],
+			[
+				"prev",
+				"Preview"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: html"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"pre",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"col",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: l",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 502.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ryentzer/Documents/pine-ruby/chp2/calc.rb",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/shirts4mike/css/style.css",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/shirts4mike/inc/header.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/shirts4mike/index.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/shirts4mike/js/scripts.js",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/shirts4mike/inc/footer.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/shirts4mike/js/jquery.min.js",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/shirts4mike/contact.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/shirts4mike/shirts.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/shirts4mike/index.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/hero.html",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/.project",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/contact.html",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/malory/wp-config.php",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/docs/components.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/docs/index.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/docs/base-css.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/docs/customize.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/docs/extend.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/docs/getting-started.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/docs/javascript.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/docs/scaffolding.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/malory-bootstrap.sublime-project",
+		"/Users/ryentzer/Desktop/bootstrap 2/css/bootstrap-responsive.css",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/index.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/assets/css/style2.css",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/index3.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/assets/css/style.css",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/assets/css/bootstrap.css",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/portfolio.html",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/examples/hero.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/base-css.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/Sites/malory/examples/herobak.html",
+		"/Users/ryentzer/Dropbox/Rick/Web/bootstrap/package.json",
+		"/Users/ryentzer/Desktop/sifting/jlong-sass-twitter-bootstrap-a0b41f1/README.md",
+		"/Users/ryentzer/Desktop/sifting/jlong-sass-twitter-bootstrap-a0b41f1/CHANGELOG.md",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/malory/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/css/less/variables.less",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/malory/wp-content/themes/malory/style.css",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/ryentzer/Library/Caches/Cleanup At Startup/Transmit/8F4E001C-69AA-42C4-BD30-8607EFF4DD1F/index.html",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/css/base.css",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/header.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/style.css",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/index.php",
+		"/Users/ryentzer/Dropbox/appdata/st2/Packages/SideBarEnhancements/readme.md",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/content.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/single.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/search.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/page.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/content-portfolio-single.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/content-single.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/sidebar-post.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/functions.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/footer-contact.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/footer-homepage.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/footer.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012/sidebar-contact.php",
+		"/Users/ryentzer/Desktop/git-bash-completion-master/README.markdown",
+		"/Users/ryentzer/Dropbox/Rick/Web/fbm static site/contact-forbenmedia/index.html",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl/sidebar.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl/footer.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl/functions.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl/gafl.sublime-workspace",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/User/Git.sublime-settings",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl/css/slides.css",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/User/Preview.sublime-settings",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl/header.php",
+		"/Users/ryentzer/Library/Caches/Cleanup At Startup/Transmit/49AF2314-B079-4FA4-88D3-C0A96062819A/index.html",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl/style.css",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl/inc/tweaks.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl2/header.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl2/styles/master.css",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl2/front-page.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl2/page.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl2/screenshot.png",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl2/functions.php",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/director/wp-config.php",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/Preview/Preview.sublime-settings",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/ryentzer/Desktop/testin.html",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl2/style.css",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl2/index.php",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/Preview/README.md",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/User/safari.sublime-build",
+		"/Users/ryentzer/Dropbox/Rick/MAMP sites/wordpress/wp-content/themes/gafl2/single.php",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
+		"/Users/ryentzer/Library/Application Support/Sublime Text 2/Packages/User/Prevu.sublime-settings",
+		"/Users/ryentzer/Dropbox/Rick/gafl2/styles/master.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/gafl2/styles/master.css",
+		"/Users/ryentzer/Desktop/testin.js",
+		"/Users/ryentzer/Desktop/CodeKit — Frequently Asked Questions.webloc",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/inc/tweaks.php",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/README.md",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/layouts/content-sidebar-sidebar.css",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/inc/custom-header.php",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/inc/template-tags.php",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/inc/theme-options/theme-options.php",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/functions.php",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/archive.php",
+		"/Users/ryentzer/Desktop/everfan css changes.txt",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/page.php",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/footer-homepage.php",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/content.php",
+		"/Volumes/Backup/Max Drive/ForbenMedia/FBM Website 2012/site/index.html",
+		"/Applications/MAMP/htdocs/fbm/wp-content/themes/fbm2012/style.css",
+		"/Users/ryentzer/Desktop/public_html/default.html",
+		"/Users/ryentzer/Desktop/test.html",
+		"/Users/ryentzer/Desktop/public_html/index.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			"",
+			"/Users/ryentzer/Dropbox/Rick/MAMP sites/fbm/wp-content/themes/fbm2012"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"table",
+			"href=\"assets",
+			"ref=\"",
+			"btn",
+			"polaroid",
+			"img-circle",
+			"span",
+			"0.065",
+			"4",
+			"1",
+			"navbar",
+			"255",
+			"222222",
+			"inner",
+			"\"hr\"",
+			"^hr",
+			"hr",
+			"300",
+			"../",
+			".html",
+			"remodeling",
+			"inner",
+			"container",
+			"color",
+			"center",
+			"navbar",
+			"container",
+			",\n",
+			"span4",
+			"\n  ",
+			"a:",
+			"hero",
+			"url",
+			";\n",
+			"}",
+			"body",
+			"author",
+			"blockq",
+			"search",
+			"footer",
+			"entry-meta",
+			"entry-title",
+			"span",
+			"article",
+			"phone",
+			"clearfix",
+			"color:",
+			".cont",
+			"input",
+			"phone",
+			"footer",
+			"submit",
+			"clear",
+			"group",
+			"last-",
+			"last-c",
+			"main",
+			"footer",
+			"dotted",
+			"dash",
+			"dashed",
+			"a:hover",
+			"1.1em",
+			"1.5em",
+			"ul",
+			"h4",
+			"#services",
+			"list",
+			"git",
+			"pagination",
+			"slides",
+			"jQuery",
+			"footer",
+			"showcase",
+			"660px",
+			"footer",
+			"site-footer",
+			"author",
+			"footer",
+			"Media queries",
+			"footer",
+			" \n",
+			"php",
+			"<?",
+			"∏",
+			"alignleft",
+			"alignlleft",
+			"group",
+			"main",
+			"a:link",
+			"1s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href=\"../assets",
+			"ref=\"../",
+			"group",
+			".services"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 154.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cal",
+				"chp2/calc.rb"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"con",
+				"contact.php"
+			],
+			[
+				"styl",
+				"css/style.css"
+			],
+			[
+				"sc",
+				"js/scripts.js"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"header",
+				"inc/header.php"
+			],
+			[
+				"fo",
+				"inc/footer.php"
+			],
+			[
+				"jq",
+				"js/jquery.min.js"
+			],
+			[
+				"foot",
+				"inc/footer.php"
+			],
+			[
+				"he",
+				"inc/header.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"shi",
+				"shirts.php"
+			],
+			[
+				"h",
+				"inc/header.php"
+			],
+			[
+				"head",
+				"inc/header.php"
+			],
+			[
+				"co",
+				"contact.php"
+			],
+			[
+				"i",
+				"index.php"
+			],
+			[
+				"",
+				"contact.php"
+			],
+			[
+				"footer",
+				"inc/footer.php"
+			],
+			[
+				"inde",
+				"index3.html"
+			],
+			[
+				"her",
+				"hero.html"
+			],
+			[
+				"boot",
+				"assets/css/bootstrap.css"
+			],
+			[
+				"bo",
+				"assets/css/bootstrap.css"
+			],
+			[
+				"stye",
+				"assets/css/style.css"
+			],
+			[
+				"boo",
+				"assets/css/bootstrap.css"
+			],
+			[
+				"hero",
+				"hero.html"
+			],
+			[
+				"css",
+				"assets/css/bootstrap.css"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"f",
+				"footer.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true
+}
